@@ -1,0 +1,2 @@
+
+exports.INFURA_PROJECT_ID = "a2f397eed89246f783d5048edd48348b"
